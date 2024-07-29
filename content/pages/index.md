@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: DUAR DINADIN.
-    subtitle: subdo
+    subtitle: subdo takeoff
     styles:
       self:
         height: auto
